@@ -1,5 +1,5 @@
-baseurl = "https://kazakov.xyz"
-title = "DevOps with love"
+baseurl = "https://mlenoir.com"
+title = "Tired Father of 3"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -21,11 +21,11 @@ filename = 'sitemap.xml'
 priority = 0.5
 
 [params]
-author = "Kirill Kazakov"
+author = "Matthew LeNoir"
 info = ["Full Stack DevOps and Magician"]
-description = "Kirill Kazakov's personal page"
-keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-gravatar = "k@kazakov.xyz"
+description = "Matthew's personal page"
+keywords = "blog,businesscard,personal,devops,"
+gravatar = "matthewlenoir56@gmail.com"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
@@ -49,31 +49,19 @@ maxSeeAlsoItems = 5
 name = "Github"
 icon = "fa fa-github fa-2x"
 weight = 1
-url = "https://github.com/kksudo/"
-target = "_blank"
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab fa-2x"
-weight = 2
-url = "https://gitlab.com/kksudo"
+url = "https://github.com/mlenoir919/"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kk_sudo/"
+url = "https://www.instagram.com/matteo_knows/"
 target = "_blank"
 [[params.social]]
-name = "Linkedin"
-icon = "fa fa-linkedin fa-2x"
-weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
-target = "_blank"
-[[params.social]]
-name = "k@kazakov.xyz"
+name = "spam@mlenoir.com"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:spam@mlenoir.com"
 target = "_blank"
 
 # Menu links
